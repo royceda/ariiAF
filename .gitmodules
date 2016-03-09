@@ -1,0 +1,45 @@
+[submodule "src/ATSBundle"]
+	path = src/ATSBundle
+	url = https://github.com/AriiPortal/ATSBundle
+[submodule "src/Arii/AdminBundle"]
+	path = src/Arii/AdminBundle
+	url = https://github.com/AriiPortal/AdminBundle
+[submodule "src/Arii/ATSBundle"]
+	path = src/Arii/ATSBundle
+	url = https://github.com/AriiPortal/ATSBundle
+[submodule "src/Arii/CoreBundle"]
+	path = src/Arii/CoreBundle
+	url = https://github.com/AriiPortal/CoreBundle
+[submodule "src/Arii/DSBundle"]
+	path = src/Arii/DSBundle
+	url = https://github.com/AriiPortal/DSBundle
+[submodule "src/Arii/GalleryBundle"]
+	path = src/Arii/GalleryBundle
+	url = https://github.com/AriiPortal/GalleryBundle
+[submodule "src/Arii/I5Bundle"]
+	path = src/Arii/I5Bundle
+	url = https://github.com/AriiPortal/I5Bundle
+[submodule "src/Arii/JIDBundle"]
+	path = src/Arii/JIDBundle
+	url = https://github.com/AriiPortal/JIDBundle
+[submodule "src/Arii/JOCBundle"]
+	path = src/Arii/JOCBundle
+	url = https://github.com/AriiPortal/JOCBundle
+[submodule "src/Arii/JOEBundle"]
+	path = src/Arii/JOEBundle
+	url = https://github.com/AriiPortal/JOEBundle
+[submodule "src/Arii/MFTBundle"]
+	path = src/Arii/MFTBundle
+	url = https://github.com/AriiPortal/MFTBundle
+[submodule "src/Arii/ReportBundle"]
+	path = src/Arii/ReportBundle
+	url = https://github.com/AriiPortal/ReportBundle
+[submodule "src/Arii/RunBundle"]
+	path = src/Arii/RunBundle
+	url = https://github.com/AriiPortal/RunBundle
+[submodule "src/Arii/TimeBundle"]
+	path = src/Arii/TimeBundle
+	url = https://github.com/AriiPortal/TimeBundle
+[submodule "src/Arii/UserBundle"]
+	path = src/Arii/UserBundle
+	url = https://github.com/AriiPortal/UserBundle
