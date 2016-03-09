@@ -43,3 +43,9 @@
 [submodule "src/Arii/UserBundle"]
 	path = src/Arii/UserBundle
 	url = https://github.com/AriiPortal/UserBundle
+[submodule "src/Arii/ConfigBundle"]
+	path = src/Arii/ConfigBundle
+	url = https://github.com/AriiPortal/ConfigBundle
+[submodule "src/Arii/GraphvizBundle"]
+	path = src/Arii/GraphvizBundle
+	url = https://github.com/AriiPortal/GraphvizBundle
